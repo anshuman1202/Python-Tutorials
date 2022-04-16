@@ -1,4 +1,4 @@
-# Python topics
+# Python Topics
 
 1. Numbers
 2. Strings
